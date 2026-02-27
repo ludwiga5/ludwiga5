@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science & Business Management @ SUNY Polytechnic Institute<br>Current Coursework: Data Structures, and Algorithms, Computer Organization, & Finite Math<br>I'm working on a full-stack triathlon training app with Java Spring-Boot, and Next.js.<br>I'm always learning something. Right now it's virtualization and Linux with my Proxmox homelab.<br>
+Computer Science & Business Management @ SUNY Polytechnic Institute<br>Current Coursework: Data Structures and Algorithms, Computer Organization, & Finite Math<br>I'm working on a full-stack triathlon training app with Java Spring-Boot, and Next.js.<br>I'm always learning something. Right now it's virtualization and Linux with my Proxmox homelab.<br>
 
 
 # 💻 Tech Stack:
